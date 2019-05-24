@@ -1,0 +1,16 @@
+SMAP
+ViewBorrowedBooks_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewBorrowedBooks.jsp
+ViewBorrowedBooks.jsp
+*L
+5,64:50
+70,15:115
+84,20:130
+103,2:150
+105,6:152,3
+111,11:170
+121,232:181
+*E
